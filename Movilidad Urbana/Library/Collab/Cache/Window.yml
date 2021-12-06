@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Movement.cs
-    - Assets/Movement.cs.meta
+    - Assets/Scripts/Actor.cs
+    - Assets/Urban American Assets/Props/Vehicles/Taxi B.prefab
     - 
-    m_Values: 010101
+    m_Values: 000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

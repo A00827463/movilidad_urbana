@@ -317,8 +317,8 @@
 -r:"/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"/Applications/Unity/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
--r:"/Users/sebas/UnityProjects/Movilidad Urbana/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
--r:"/Users/sebas/UnityProjects/Movilidad Urbana/Library/PackageCache/com.unity.visualscripting@1.7.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"/Users/sebas/Documents/Tec/5º Semestre/Modelacion/movilidad_urbana/Movilidad Urbana/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
+-r:"/Users/sebas/Documents/Tec/5º Semestre/Modelacion/movilidad_urbana/Movilidad Urbana/Library/PackageCache/com.unity.visualscripting@1.7.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
@@ -337,7 +337,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Movement.cs"
+"Assets/Scripts/Actor.cs"
+"Assets/Scripts/CarCode.cs"
+"Assets/Scripts/ChangeTexture.cs"
+"Assets/Scripts/LightTime.cs"
+"Assets/Scripts/WayPoint.cs"
 -langversion:9.0
 
 /deterministic
